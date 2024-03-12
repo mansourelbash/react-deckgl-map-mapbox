@@ -13,8 +13,6 @@ The **Jordan Parks Explorer** is a React-based web application that allows users
 
 ![sample image](sample4.png)
 
-![sample image2](sample5.png)
-
 ## Features
 
 - **Interactive Map**: Utilizes Mapbox for a dynamic and interactive map interface.
