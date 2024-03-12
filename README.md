@@ -5,15 +5,15 @@ The **Jordan Parks Explorer** is a React-based web application that allows users
 ## Final Output
 ![sample image](sample.png)
 
-![sample image](sample3.png)
+![sample image3](sample3.png)
 
 ![sample image2](sample2.png)
 
-![sample image](sample1.png)
+![sample image1](sample1.png)
 
-![sample image](sample4.png)
+![sample image4](sample4.png)
 
-![sample image2](sample5.png)
+![sample image5](sample5.png)
 
 ## Features
 
@@ -27,7 +27,7 @@ The **Jordan Parks Explorer** is a React-based web application that allows users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mansourelbash/react-deckgl-map-mapbox.git
+   git clone https://github.com/your-username/your-repo.git
    ```
 
 2. Install dependencies:
