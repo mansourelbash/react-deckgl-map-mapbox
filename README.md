@@ -3,6 +3,7 @@
 The **Jordan Parks Explorer** is a React-based web application that allows users to explore and visualize parks and landmarks in Jordan using Mapbox and Deck.gl. The application provides an interactive map interface with the ability to fly to different locations, change map styles, and view details about specific points of interest.
 
 ## Final Output
+![sample image](sample.png)
 
 ![sample image](sample3.png)
 
@@ -11,6 +12,8 @@ The **Jordan Parks Explorer** is a React-based web application that allows users
 ![sample image](sample1.png)
 
 ![sample image](sample4.png)
+
+![sample image2](sample5.png)
 
 ## Features
 
