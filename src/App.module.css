@@ -1,0 +1,70 @@
+:root {
+  --main-color: #333;
+  --hover-color: #666;
+  --active-color: #555;
+  --background-color: rgba(0, 0, 0, 0.5);
+}
+
+.controls,
+.controls_styles {
+  position: absolute;
+  z-index: 10000;
+  padding: 20px;
+  color: white;
+  font-weight: bold;
+}
+
+.controls {
+  top: 0;
+  right: 0;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.controls > button,
+.controls_styles > button {
+  cursor: pointer;
+  font-size: 24px;
+  background-color: var(--main-color);
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  color: #fff;
+  width: 100%;
+  display: block;
+  margin-bottom: .2em;
+}
+
+.controls > button:hover,
+.controls_styles > button:hover {
+  background-color: var(--hover-color);
+}
+
+.controls > button:active,
+.controls_styles > button:active {
+  background-color: var(--active-color);
+}
+
+.controls_styles {
+  bottom: 0;
+  left: 0;
+  width: 10%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  background-color: var(--background-color);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.controls_styles h2 {
+  margin: 0px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.controls_styles > button {
+  font-size: 14px;
+  margin: 5px 10px;
+  padding: 10px;
+}

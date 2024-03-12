@@ -1,0 +1,512 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": {
+        "Code": "AM001",
+        "Name": "Amman Citadel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.941116, 31.951569]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "Code": "AM002",
+        "Name": "Rainbow Street"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.934244, 31.955439]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "Code": "AM003",
+        "Name": "King Abdullah I Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.877094, 31.959959]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "Code": "AM004",
+        "Name": "Jordan Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.860563, 31.961310]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "Code": "AM005",
+        "Name": "Roman Theatre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.934615, 31.953461]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "Code": "AM006",
+        "Name": "Jabal Amman - First Circle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.925402, 31.958107]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "Code": "AM007",
+        "Name": "City Mall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.848098, 31.960703]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "Code": "AM008",
+        "Name": "Abdoun Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.868217, 31.972007]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "Code": "AM009",
+        "Name": "Royal Automobile Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.858544, 31.996593]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "Code": "AM010",
+        "Name": "Zahran Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.828886, 31.991853]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "Code": "AM011",
+        "Name": "Jordan Gate Towers"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.844816, 31.974363]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "Code": "AM012",
+        "Name": "Martyrs' Memorial and Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.898172, 31.951112]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "Code": "AM013",
+        "Name": "Jordan National Gallery of Fine Arts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.835522, 31.960321]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "Code": "AM014",
+        "Name": "Wild Jordan Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.898848, 31.958615]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "Code": "AM015",
+        "Name": "Grand Husseini Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.928811, 31.953232]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "Code": "AM016",
+        "Name": "Royal Tank Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.852488, 31.954986]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "Code": "AM017",
+        "Name": "King Hussein Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.832161, 31.976008]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "Code": "AM018",
+        "Name": "Amman Waves"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.915014, 31.905716]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "Code": "AM019",
+        "Name": "King Abdullah II Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.838913, 31.968330]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "Code": "AM020",
+        "Name": "Abu Darweesh Mosque"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.846923, 31.957630]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "Code": "IRB001",
+        "Name": "Irbid Archaeological Museum",
+        "marker-color": [255, 0, 0, 250]  
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.847201, 32.553483]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "Code": "IRB002",
+        "Name": "Yarmouk University",
+        "marker-color": [255, 0, 0, 250]  
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.845166, 32.529315]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "Code": "IRB003",
+        "Name": "Irbid City Center",
+        "marker-color": [255, 0, 0, 250]  
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.845974, 32.554446]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "Code": "IRB004",
+        "Name": "Al-Hassan Sports City",
+        "marker-color": [255, 0, 0, 250]  
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.840187, 32.549173]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "Code": "IRB005",
+        "Name": "Irbid National University",
+        "marker-color": [255, 0, 0, 250]  
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.831251, 32.549664]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "Code": "IRB006",
+        "Name": "Irbid Castle",
+        "marker-color": [255, 0, 0, 250]  
+
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.849718, 32.548079]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "Code": "IRB007",
+        "Name": "Al Yarmouk University Mosque",
+        "marker-color": [255, 0, 0, 250]  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.843908, 32.530879]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "Code": "IRB008",
+        "Name": "Irbid Mall",
+        "marker-color": [255, 0, 0, 250]  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.846823, 32.563450]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "Code": "IRB009",
+        "Name": "Al Shuhada Street",
+        "marker-color": [255, 0, 0, 250] 
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.844071, 32.549945]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "Code": "IRB010",
+        "Name": "Irbid Archaeological Park",
+        "marker-color": [255, 0, 0, 250]  
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.848610, 32.550490]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "Code": "RAM030",
+        "Name": "Ramtha Landmark 1",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.835120, 32.553847]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "Code": "RAM031",
+        "Name": "Ramtha Plaza",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.970482, 32.554769]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "Code": "RAM032",
+        "Name": "Ramtha Gardens",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.976584, 32.544217]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "Code": "RAM033",
+        "Name": "Ramtha Library",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.960743, 32.548765]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "Code": "RAM034",
+        "Name": "Ramtha Stadium",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.958217, 32.538218]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "Code": "RAM035",
+        "Name": "Ramtha Mall",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.974569, 32.551320]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "Code": "RAM036",
+        "Name": "Ramtha Hospital",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.960915, 32.543162]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "Code": "RAM037",
+        "Name": "Ramtha Mosque",
+        "marker-color": [0, 51, 102, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.968361, 32.549050]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "Code": "RAM038",
+        "Name": "Ramtha Cultural Center",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.980487, 32.554205]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "Code": "RAM039",
+        "Name": "Ramtha School",
+        "marker-color": [0, 31, 63, 255]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.962614, 32.545358]
+      }
+    }
+    
+  ]
+}
